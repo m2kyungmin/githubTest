@@ -2,7 +2,7 @@
 
 int main(){
   
-  
+ print("bye"); 
  return 0; 
   
 }
